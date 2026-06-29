@@ -1,2 +1,0 @@
-# Paysprint_test
-Paysprint_Excode_test
